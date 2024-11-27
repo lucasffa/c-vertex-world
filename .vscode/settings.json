@@ -1,0 +1,8 @@
+{
+    "cmake.sourceDirectory": "/home/lucas/coding/projeto_voxel/cglm",
+    "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools",
+    "files.associations": {
+        "world.h": "c",
+        "cglm.h": "c"
+    }
+}
